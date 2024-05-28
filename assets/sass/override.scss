@@ -49,10 +49,9 @@ $fa-font-path: "../webfonts";
 }
 
 .highlight > pre {
-  padding: 0.5rem 0.8rem;
-  border: 1px solid;
-  border-color: #ddd #ddd #ccc;
-  border-radius: 3px;
+  padding: 0.8rem;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
 }
 
 hr {
